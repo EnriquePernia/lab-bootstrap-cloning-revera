@@ -1,0 +1,59 @@
+.color-footer-main{
+     color:white;
+     background-color:#4c4f53;
+     border-top: 3px solid red;
+}
+.list-group-item{
+     border-color:#8a8e96;
+     
+}
+
+.borde-li{
+     border-style:dotted;
+}
+.color-footer{
+     background-color:#4c4f53;
+}
+
+.col{
+     margin-top:60px;
+}
+
+.color-footer-footer{
+     background-color: #2d2e30;
+     color:white;
+}
+
+.sub-titulo{
+     color:gray;
+     font-weight: bolder;
+     margin:0;
+     padding:0;
+}
+
+.display{
+     list-style: none;
+     border:none;
+}
+
+.list-group-item{
+     border-top:none;
+}
+
+.imagen{
+     width:100%;
+     object-fit:cover;
+}
+
+.contenedor-2{
+     margin-top:70px;
+}
+
+.intenso{
+     font-weight: bolder;
+}
+
+.medio-intenso{
+     font-weight: bold;
+     color:grey;
+}
